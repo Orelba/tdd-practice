@@ -1,2 +1,2 @@
-# tdd-practice
-Test driven development practice excercise
+# Test Driven Development Practice
+A TDD practice excercise using the Jest testing framework
